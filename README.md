@@ -1,4 +1,4 @@
-```
+````
 # Modeling of Functional Connectomes with Complex Networks in Reduced Sampling Scenarios for Predicting Attention Deficit Hyperactivity Disorder
 
 This repository contains the code and analysis for my senior thesis in Statistics and Data Science at the University of São Paulo (USP).  
@@ -51,6 +51,7 @@ The code assumes preprocessed rs-fMRI data from the **Neuro Bureau ADHD-200 Prep
 
   ```text
   https://nitrc.org/frs/downloadlink.php/3814
+  ```
 ````
 
 * Phenotypic file (TSV with subject-level labels):
