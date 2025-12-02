@@ -1,5 +1,3 @@
----
-
 ```
 # Modeling of Functional Connectomes with Complex Networks in Reduced Sampling Scenarios for Predicting Attention Deficit Hyperactivity Disorder
 
