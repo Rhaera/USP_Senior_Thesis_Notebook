@@ -424,7 +424,7 @@ MIT License – see LICENSE file for details.
 If you have questions about the code, methodology, or want to discuss potential collaborations, feel free to reach out via:
 
 * GitHub issues in this repository
-* Email via rauldantas@usp.br
+* Email via silva.raul@alumni.usp.br
 
 ---
 
